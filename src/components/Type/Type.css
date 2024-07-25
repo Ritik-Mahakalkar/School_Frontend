@@ -1,0 +1,26 @@
+.part-image img{
+    width: 32vh;
+    height: 24vh;
+    border-radius: 10px;
+    
+}
+.type-container{
+    display: flex;
+    gap: 5px;
+    margin-top: 100px;
+   
+   
+    border-radius: 20px;
+}
+.partA ,.partB,.partC,.partD{
+    height: 40vh;
+    background:  #49557e;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.type-container p{
+    color: white;
+    margin-top: 5vh;
+    font-size: 20px;
+}

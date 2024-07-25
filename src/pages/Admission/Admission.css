@@ -1,0 +1,13 @@
+.container-notice-B{
+    background-color: black;
+    border-radius: 20px;
+    align-items: center;
+    padding: 20px;
+}
+.container-notice{
+    
+    align-items: center;
+}
+.container-notice p{
+    color: white;
+}

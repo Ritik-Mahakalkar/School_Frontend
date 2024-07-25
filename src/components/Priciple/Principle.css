@@ -1,0 +1,29 @@
+.image img{
+    height: 36vh;
+    border-radius: 20px;
+    width: 46vh;
+   
+    
+    
+}
+.right{
+    margin-top: 20px;
+   
+}
+
+.left p{
+    color: white;
+    margin-top: 10px;
+}
+.right p{
+    color: white;
+    
+}
+.container{
+    display: flex;
+    gap: 20px;
+    margin-top: 100px;
+    background-color: #49557e;
+    padding: 40px;
+    border-radius: 20px;
+}

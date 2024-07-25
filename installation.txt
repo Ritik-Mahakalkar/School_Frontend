@@ -1,0 +1,15 @@
+
+npm create vite@latest
+Project name: school
+√ Select a framework: » React
+√ Select a variant: » JavaScript  //use to create react project (3 commands)
+
+
+cd .\school
+
+npm install //use to install all dependencies
+
+npm install react-router-dom //use for installation of dom
+
+
+npm run dev   //use to run the project
